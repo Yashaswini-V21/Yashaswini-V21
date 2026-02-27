@@ -123,6 +123,13 @@ yashaswini = {
 <img src="./badge 1.webp" height="75" />
 <img src="./badge 2.webp" height="75" />
 
+
+
+
+
+
+[![Verify My Badges](https://img.shields.io/badge/Verify_Badges-Holopin-8B5CF6?style=flat-square&logo=holopin&logoColor=white)](https://www.holopin.io/@yashaswiniv21#badges)
+
 🎃 **Hacktoberfest 2025** &nbsp;|&nbsp; 💡 **GSSoC 2025** &nbsp;|&nbsp; 🏆 **Apertre 3.0 2026**
 <br/>
 
