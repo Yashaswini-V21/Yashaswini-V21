@@ -126,30 +126,33 @@ yashaswini = {
 🎃 **Hacktoberfest 2025** &nbsp;|&nbsp; 💡 **GSSoC 2025** &nbsp;|&nbsp; 🏆 **Apertre 3.0 2026**
 <br/>
 
-### Google Cloud — 100+ Badges
+### Google Cloud [Badges]
 
 [![Google Arcade](https://img.shields.io/badge/View_All_100%2B_Badges-Google_Cloud_Arcade-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/343e3609-91f4-45fd-883c-e7276e87d427)
 
-**Highlights:**
-`BigQuery ML` `Vertex AI` `Gemini AI` `TensorFlow on GCP` `Kubernetes` `Cloud Security` `Looker` `Terraform` `Cloud Run` `Firebase` `CI/CD Pipelines` `RAG with Gemini` `Document AI` `Natural Language API`
+
+
 
 </div>
 
 ---
 
+</div>
 
-<div align="center">
-
-```
-// luck is unluck, unluck is luck
-// every bug you fix makes you better than yesterday
+---
+```python
+# luck is unluck, unluck is luck😁
+# every bug you fix makes you better than yesterday🌟
 try:
     keep_building()
 except Failure:
     learn(); try_again()
 ```
 
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Yashaswini-V21&style=flat-square&color=38bdf8&label=Profile+Views)
+
 
 
 </div>
