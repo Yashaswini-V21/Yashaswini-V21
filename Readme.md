@@ -84,13 +84,14 @@ yashaswini = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yashaswini-V21&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashaswini-V21&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashaswini-V21&layout=compact&theme=tokyonight&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashaswini-V21&layout=compact&theme=tokyonight&count_private=true&hide_border=true)
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yashaswini-V21&theme=dark&background=0d1117&border=21262d&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8)](https://git.io/streak-stats)
+```
 
 </div>
 
