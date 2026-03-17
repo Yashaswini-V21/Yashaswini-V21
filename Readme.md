@@ -84,14 +84,13 @@ yashaswini = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashaswini-V21&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yashaswini-V21&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashaswini-V21&layout=compact&theme=tokyonight&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yashaswini-V21&layout=compact&theme=tokyonight&hide_border=true)
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yashaswini-V21&theme=dark&background=0d1117&border=21262d&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8)](https://git.io/streak-stats)
-```
 
 </div>
 
@@ -124,11 +123,6 @@ yashaswini = {
 <img src="./badge 1.webp" height="75" />
 <img src="./badge 2.webp" height="75" />
 
-
-
-
-
-
 [![Verify My Badges](https://img.shields.io/badge/Verify_Badges-Holopin-8B5CF6?style=flat-square&logo=holopin&logoColor=white)](https://www.holopin.io/@yashaswiniv21#badges)
 
 🎃 **Hacktoberfest 2025** &nbsp;|&nbsp; 💡 **GSSoC 2025** &nbsp;|&nbsp; 🏆 **Apertre 3.0 2026**
@@ -138,16 +132,10 @@ yashaswini = {
 
 [![Google Arcade](https://img.shields.io/badge/View_All_100%2B_Badges-Google_Cloud_Arcade-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/343e3609-91f4-45fd-883c-e7276e87d427)
 
-
-
-
 </div>
 
 ---
 
-</div>
-
----
 ```python
 # luck is unluck, unluck is luck😁
 # every bug you fix makes you better than yesterday🌟
@@ -160,8 +148,6 @@ except Failure:
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yashaswini-V21&style=flat-square&color=38bdf8&label=Profile+Views)
-
-
 
 </div>
 
