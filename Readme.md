@@ -7,6 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_yashaswini_v__)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![Google Arcade](https://img.shields.io/badge/Google_Arcade-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.skills.google/public_profiles/343e3609-91f4-45fd-883c-e7276e87d427)
+[![GDG Profile](https://img.shields.io/badge/GDG_Profile-34A853?style=flat-square&logo=google&logoColor=white)](https://g.dev/yashaswini-v21)
 
 </div>
 
@@ -90,7 +91,7 @@ yashaswini = {
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yashaswini-V21&theme=dark&background=0d1117&border=21262d&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yashaswini-V21&theme=dark&background=0d1117&border=21262d&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&timezone=Asia%2FKolkata&mode=weekly&type=svg&cache_seconds=1800)](https://git.io/streak-stats)
 
 </div>
 
