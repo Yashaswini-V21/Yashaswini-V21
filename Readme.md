@@ -22,7 +22,7 @@ yashaswini = {
     "🎓": "Pursuing BCA | Data Science & AIML",
     "📊": "Passionate about Data Analysis & Visualization",
     "☁️": "Google Cloud Arcade Facilitator: Ranger (2025) | Legend (2026)",
-    "🏆": "Apertre 3.0 Top 8 Finalist | GSSoC '25 Top 200 | 10+ Hackathons",
+    "🏆": "Apertre 3.0 Top 8 Finalist | GSSoC '25  | 10+ Hackathons",
     "✍️": "Active Tech Blog Writer & Technical Content Creator",
     "🌱": "Currently learning Deep Learning & Cloud Computing",
     "🎯": "Target: Analytics Engineer & Cloud Data Engineer"
